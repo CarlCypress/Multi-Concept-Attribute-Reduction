@@ -26,11 +26,13 @@ nohup ./attribute_reduction/run_time.sh > ./time.log &
 
 ```latex
 @article{hu2026attribute,
-  title = {Attribute Reduction for Concept Cognition Over Knowledge Graphs},
-  author = {Hu, Xin and Huang, Denan and Duan, Jiangli and others},
-  journal = {Engineering Applications of Artificial Intelligence},
-  year = {2026},
-  note = {In press}
+  title={Attribute reduction for concept cognition over knowledge graphs},
+  author={Hu, Xin and Huang, Denan and Duan, Jiangli and Zhao, Zhongying and Zhang, Sulan},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={176},
+  pages={114740},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
